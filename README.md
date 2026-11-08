@@ -1,1 +1,1 @@
-# Log Records
+# Log Details
